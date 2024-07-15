@@ -7,8 +7,9 @@ import Header from './components/NavBar/Header';
 function App() {
   return (
     <div className="App w-full h-screen">
-      <Header/>
+      
       <Router>
+      <Header/>
         <Routes>
           <Route path='/' element={<HomePage/>}></Route>
           <Route path='/contact-us' element={<ContactUsPage/>}></Route>
