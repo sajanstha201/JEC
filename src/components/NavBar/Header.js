@@ -4,7 +4,7 @@ function Header(){
     return(
         <>
         <header>
-        <div className="relative h-[65%] md:h-[66.67%]">
+        <div className="relative h-[65%] md:h-[60%]">
             <video className="w-full h-full object-cover" autoPlay muted>
                 <source src={vid} type="video/mp4" />
             </video>
