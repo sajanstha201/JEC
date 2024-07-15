@@ -6,7 +6,7 @@ import ContactUsPage from './components/ContactUsPage/ContactUsPage';
 import Header from './components/NavBar/Header';
 function App() {
   return (
-    <div className="App">
+    <div className="App w-full h-screen">
       <Header/>
       <Router>
         <Routes>
