@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JEC/static/css/main.0098ad98.css",
-    "main.js": "/JEC/static/js/main.39004d3e.js",
+    "main.css": "/JEC/static/css/main.2475e0db.css",
+    "main.js": "/JEC/static/js/main.098ad4bc.js",
     "static/js/453.145e772a.chunk.js": "/JEC/static/js/453.145e772a.chunk.js",
     "static/media/jec.mp4": "/JEC/static/media/jec.af1ec883ff870b151398.mp4",
     "static/media/jec-about.png": "/JEC/static/media/jec-about.9b474afc330b95fa309d.png",
@@ -9,17 +9,18 @@
     "static/media/tulogo.png": "/JEC/static/media/tulogo.2a686b9cda7071264e6a.png",
     "static/media/computer.jpg": "/JEC/static/media/computer.71668f61c14ff0dd9f97.jpg",
     "static/media/student.png": "/JEC/static/media/student.0f2ebbf5b9d7f6548f11.png",
+    "static/media/jec-students.jpg": "/JEC/static/media/jec-students.32679ac81e09cd194829.jpg",
     "static/media/civil.jpg": "/JEC/static/media/civil.b3beb888742908be92e1.jpg",
     "static/media/uniimg.jpg": "/JEC/static/media/uniimg.7c0c32982587eeeb3bd1.jpg",
     "static/media/jec-logo.png": "/JEC/static/media/jec-logo.3f82a3ed3c5606dfd30e.png",
     "static/media/logo.svg": "/JEC/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/JEC/index.html",
-    "main.0098ad98.css.map": "/JEC/static/css/main.0098ad98.css.map",
-    "main.39004d3e.js.map": "/JEC/static/js/main.39004d3e.js.map",
+    "main.2475e0db.css.map": "/JEC/static/css/main.2475e0db.css.map",
+    "main.098ad4bc.js.map": "/JEC/static/js/main.098ad4bc.js.map",
     "453.145e772a.chunk.js.map": "/JEC/static/js/453.145e772a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0098ad98.css",
-    "static/js/main.39004d3e.js"
+    "static/css/main.2475e0db.css",
+    "static/js/main.098ad4bc.js"
   ]
 }
