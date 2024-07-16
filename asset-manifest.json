@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/JEC/static/css/main.f855e6bc.css",
-    "main.js": "/JEC/static/js/main.6290a900.js",
+    "main.css": "/JEC/static/css/main.382697a8.css",
+    "main.js": "/JEC/static/js/main.042796f6.js",
     "static/js/453.145e772a.chunk.js": "/JEC/static/js/453.145e772a.chunk.js",
+    "static/media/jec.mp4": "/JEC/static/media/jec.af1ec883ff870b151398.mp4",
+    "static/media/electronics.jpg": "/JEC/static/media/electronics.058ce2e85fb92a92d725.jpg",
+    "static/media/tulogo.png": "/JEC/static/media/tulogo.2a686b9cda7071264e6a.png",
+    "static/media/computer.jpg": "/JEC/static/media/computer.71668f61c14ff0dd9f97.jpg",
+    "static/media/jec-logo.png": "/JEC/static/media/jec-logo.71d8cb381ae37a5c6fa4.png",
+    "static/media/student.png": "/JEC/static/media/student.0f2ebbf5b9d7f6548f11.png",
+    "static/media/civil.jpg": "/JEC/static/media/civil.b3beb888742908be92e1.jpg",
+    "static/media/uniimg.jpg": "/JEC/static/media/uniimg.7c0c32982587eeeb3bd1.jpg",
     "static/media/logo.svg": "/JEC/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/JEC/index.html",
-    "main.f855e6bc.css.map": "/JEC/static/css/main.f855e6bc.css.map",
-    "main.6290a900.js.map": "/JEC/static/js/main.6290a900.js.map",
+    "main.382697a8.css.map": "/JEC/static/css/main.382697a8.css.map",
+    "main.042796f6.js.map": "/JEC/static/js/main.042796f6.js.map",
     "453.145e772a.chunk.js.map": "/JEC/static/js/453.145e772a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6290a900.js"
+    "static/css/main.382697a8.css",
+    "static/js/main.042796f6.js"
   ]
 }
