@@ -4,14 +4,14 @@ export const HomeTopSection = () => {
   return (
     <>
       <header className="h-full w-full">
-        <div className="relative h-[65%] md:h-[66.67%]">
-          <video className="w-full h-full object-cover -z-10" autoPlay muted>
+        <div className="relative h-[65%]">
+          <video className="w-full h-[60vh] object-cover -z-10" autoPlay muted>
             <source src={vid} type="video/mp4" />
           </video>
 
           {/* Admission text and login button */}
           <div className="absolute bottom-0 left-0 md:top-0 md:left-auto md:right-4 md:bottom-auto md:w-1/3 p-4 text-center md:text-left">
-            <div className="admission text-white p-4 rounded-md md:mt-20 md:static md:text-left text-center">
+            <div className="admission text-white p-4 rounded-md md:mt-20 md:static md:text-left text-center mt-[7rem]">
               <h1 className="text-3xl font-bold text-center">ADMISSION OPEN</h1>
               <p className="text-lg mb-3 text-center">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
