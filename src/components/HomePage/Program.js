@@ -5,7 +5,7 @@ import elecImg from "../../media/images/electronics.jpg";
 export const Program = () => {
   return (
     <div className="">
-      <div className="course-titles flex justify-center my-5 text-4xl font-extrabold text-slate-400 md:text-6xl">
+      <div className="course-titles flex justify-center my-5 text-4xl font-extrabold text-blue-500 md:text-5xl">
         Academic Programs
       </div>
 

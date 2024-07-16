@@ -3,7 +3,7 @@ import uniimg from '../../media/images/uniimg.jpg'
 
 export const WhyChooseUs = () => {
   return (
-    <div className="md:mt-[6rem]">
+    <div className="md:mt-[8rem]">
       <div className="w-[94%] mx-auto flex justify-between md:flex-row flex-col">
         {/* <!-- why choose us text --> */}
         <div className="md:w-[40%] w-full md:mt-28 md:mb-0">
