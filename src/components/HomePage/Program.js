@@ -4,7 +4,7 @@ import beImg from "../../media/images/computer.jpg";
 import elecImg from "../../media/images/electronics.jpg";
 export const Program = () => {
   return (
-    <div className="">
+    <div className="text-2xl">
       <div className="course-titles flex justify-center my-5 text-4xl font-extrabold text-blue-500 md:text-5xl">
         Academic Programs
       </div>

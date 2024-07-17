@@ -6,7 +6,7 @@ import { WhyChooseUs } from "./WhyChooseUs";
 import { Testimonial } from "./Testimonial";
 export const HomePage = () => {
   return (
-    <div>
+    <div className="text-2xl">
       <HomeTopSection/>
       <Program/>
       <WhyChooseUs/>

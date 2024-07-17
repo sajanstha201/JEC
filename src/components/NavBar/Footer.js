@@ -3,7 +3,7 @@ import tulogo from '../../media/images/tulogo.png'
 function Footer(){
   return (
     <>
-      <div className="w-full mt-5">
+      <div className="w-full mt-5 text-2xl">
         {/* First segment of footer */}
         <div className="w-full py-2 bg-blue-600 mt-2">
           <div className="w-[96%] mx-auto flex flex-col md:flex-row justify-around items-center gap-6 md:gap-0 py-4">
