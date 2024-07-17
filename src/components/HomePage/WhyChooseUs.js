@@ -3,14 +3,14 @@ import uniimg from '../../media/images/uniimg.jpg'
 
 export const WhyChooseUs = () => {
   return (
-    <div className="md:mt-[8rem]">
+    <div className="md:mt-[8rem] text-2xl">
       <div className="w-[94%] mx-auto flex justify-between md:flex-row flex-col">
         {/* <!-- why choose us text --> */}
         <div className="md:w-[40%] w-full md:mt-28 md:mb-0">
           <h1 className="why-choose text-5xl text-blue-600 font-bold">
             Why Choose <span className="text-red-700 font-bold">JEC</span>
           </h1>
-          <p className="text-slate-800 text-lg">
+          <p className="text-slate-800 text-2xl">
             Our college offers three undergraduate programs in Civil
             Engineering,{" "}
             <span className="text-red-700">Computer Engineering</span>, and{" "}
