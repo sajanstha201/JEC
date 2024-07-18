@@ -6,6 +6,8 @@ import AboutUsPage from './components/AboutUsPage/AboutUsPage';
 import ContactUsPage from './components/ContactUsPage/ContactUsPage';
 import Header from './components/NavBar/Header';
 import Footer from './components/NavBar/Footer';
+import Admission from './components/Admission/Admission';
+
 function App() {
   return (
     <div className="App w-full h-screen">
@@ -14,6 +16,7 @@ function App() {
       <Header/>
         <Routes>
           <Route path='/' element={<HomePage/>}></Route>
+          <Route path='/admission' element={<Admission/>}> </Route>
           <Route path='/about-us' element={<AboutUsPage/>}> </Route>
           <Route path='/contact-us' element={<ContactUsPage/>}></Route>
         </Routes>
