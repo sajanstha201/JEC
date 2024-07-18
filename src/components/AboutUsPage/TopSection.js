@@ -5,7 +5,6 @@ export default function TopSection() {
   return (
     <div>
     <Image/>
-
     </div>
   )
 }
