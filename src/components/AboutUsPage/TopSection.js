@@ -16,7 +16,7 @@ function TopSection() {
     <>
       <div className="font-sans text-2xl">
         <BackDivImg>
-          <h1 className="flex w-[40%] justify-start text-4xl md:justify-start z-10">
+          <h1 className="flex w-[40%] justify-center items-center text-4xl z-10">
             About Us
           </h1>
         </BackDivImg>
