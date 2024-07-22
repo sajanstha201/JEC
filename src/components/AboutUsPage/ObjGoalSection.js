@@ -8,7 +8,7 @@ const textStyle = {
 export const ObjGoalSection = () => {
   return (
     <>
-      <div className="flex md:[80%] flex-col lg:flex-row justify-around items-center w-full mx-auto text-lg py-5 text-center lg:text-left">
+      <div className="flex w-[96%] lg:w-4/5 flex-col lg:flex-row justify-around items-center mx-auto text-lg py-5 text-center lg:text-left">
         <div className="obj-section w-full lg:w-2/5 p-4 lg:mt-[1rem] bg-slate-50">
           <span className="text-white bg-blue-500 px-4 py-2 block lg:inline-block rounded-lg">
             JEC OBJECTIVES

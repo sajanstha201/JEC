@@ -1,8 +1,13 @@
-function ContactUsPage(){
+import {ContactTop} from "../ContactUsPage/ContactTop";
+import {MapJEC} from "../ContactUsPage/MapJEC";
+import ContactForm from "./ContactForm";
+
+export const ContactUsPage = () =>{
     return(
         <>
-        <h1>This is Contact Us Page</h1>
+            <ContactTop/>
+            <MapJEC/>
+            <ContactForm/>
         </>
     )
 }
-export default ContactUsPage
