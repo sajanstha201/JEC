@@ -17,17 +17,17 @@ export default function Image() {
   const location = useLocation();
 
   useEffect(() => {
-    // Update name based on the current path
+  
     const pathName = location.pathname;
-    setName(pathName.replace('/', '').toUpperCase() || 'HOMEPAGE'); // Ensure default is set properly
+    setName(pathName.replace('/', '').toUpperCase() || 'HOMEPAGE'); 
   }, [location]);
 
   return (
     <div>
-      {/* You might want to consider using more semantic elements like <header>, <main>, etc. */}
+  
       <div className="font-sans text-2xl ">
         <BackDivImg className=' flex align-start justify-start'>
-          <div className="flex flex-col justify-center  align-center   h-full w-full me-[800px] mt-7 ">
+          <div className="flex flex-col justify-center ms-[100px]    h-full w-full  mt-7 ">
           <h1 className="text-5xl text-white font-bold">{name}</h1>
           </div>
         </BackDivImg>

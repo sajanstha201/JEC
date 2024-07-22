@@ -18,7 +18,7 @@ function Header(){
                         <li><Link to='/academic' className="text-xl text-white">Academic</Link></li>
                         <li><Link to='/facilities' className="text-xl text-white">Facilities</Link></li>
                         <li><Link to='/news' className="text-xl text-white">News</Link></li>
-                        <li><Link to='/contact-us' className="text-xl text-white">Contact</Link></li>
+                        <li><Link to='/contact' className="text-xl text-white">Contact</Link></li>
                     </ul>
                 </div>
             </div>
