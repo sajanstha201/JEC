@@ -13,7 +13,7 @@ export const MessageSection = () => {
     <>
       <div className="w-[96%] md:w-4/5 mx-auto px-10 mt-16 mb-5">
         <div className="flex justify-center items-center mb-6">
-          <h1 className="text-3xl font-bold text-blue-500">
+          <h1 className="text-4xl font-bold text-blue-500">
             What our faculty says?
           </h1>
         </div>
