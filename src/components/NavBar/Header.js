@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import logo from '../../media/images/jec-logo.png'
+import Chatbot from '../Bot/Chatbot'
 import vid from '../../media/images/jec.mp4'
 function Header(){
     return(
@@ -22,6 +23,7 @@ function Header(){
                     </ul>
                 </div>
             </div>
+            <Chatbot/>
         </>
     )
 }

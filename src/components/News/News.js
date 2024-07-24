@@ -25,7 +25,7 @@ export default function News() {
             </div>
           </div>
 
-          <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center'>
+          <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center  z-0'>
             <div className="card" style={{ width: '18rem' }}>
               <img src="https://via.placeholder.com/150" className="card-img-top" alt="Placeholder Image"/>
               <div className="card-body">
@@ -37,7 +37,7 @@ export default function News() {
             </div>
           </div>
 
-           <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center'>
+           <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center  z-0'>
             <div className="card" style={{ width: '18rem' }}>
               <img src="https://via.placeholder.com/150" className="card-img-top" alt="Placeholder Image"/>
               <div className="card-body">
@@ -49,7 +49,7 @@ export default function News() {
             </div>
           </div>
 
-          <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center'>
+          <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center  z-0'>
             <div className="card" style={{ width: '18rem' }}>
               <img src="https://via.placeholder.com/150" className="card-img-top" alt="Placeholder Image"/>
               <div className="card-body">
@@ -61,7 +61,7 @@ export default function News() {
             </div>
           </div>
 
-          <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center'>
+          <div className='col-12 col-md-4 col-lg-4 text-[20px] items-center flex flex-col justify-center  z-0'>
             <div className="card" style={{ width: '18rem' }}>
               <img src="https://via.placeholder.com/150" className="card-img-top" alt="Placeholder Image"/>
               <div className="card-body">

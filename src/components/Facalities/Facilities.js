@@ -36,7 +36,7 @@ export default function Facilities() {
 
   
   <div className='container'>
-    <div className='row'>
+    <div className='row flex flex-col-reverse md:flex-row '>
     
       <div className='col-md-6 col-sm-12 col-12 mt-5 flex flex-col items-center justify-center'>
       <h1 className="font-bold text-5xl text-blue-500 mb-4">LIBRARY</h1>
@@ -66,7 +66,7 @@ export default function Facilities() {
   </div>
 
    <div className='container'>
-    <div className='row'>
+    <div className='row flex flex-col-reverse md:flex-row '>
     
       <div className='col-md-6 col-sm-12 col-12 mt-5 flex flex-col items-center justify-center'>
       <h1 className="font-bold text-5xl text-blue-500 mb-4">HYGENIC fOOD</h1>
@@ -97,7 +97,7 @@ export default function Facilities() {
   </div> 
 
   <div className='container'>
-    <div className='row'>
+    <div className='row flex flex-col-reverse md:flex-row '>
     
       <div className='col-md-6 col-sm-12 col-12 mt-5 flex flex-col items-center justify-center'>
       <h1 className="font-bold text-5xl text-blue-500 mb-4">QUALIFIED STAFFS</h1>
@@ -129,7 +129,7 @@ export default function Facilities() {
 
 
   <div className='container'>
-    <div className='row'>
+    <div className='row flex flex-col-reverse md:flex-row '>
     
       <div className='col-md-6 col-sm-12 col-12 mt-5 flex flex-col items-center justify-center'>
       <h1 className="font-bold text-5xl text-blue-500 mb-4">INTERNSHIP AND PLACEMENT</h1>

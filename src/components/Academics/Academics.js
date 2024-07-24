@@ -39,8 +39,8 @@ export default function Academics() {
     </div>
 </div>
 
-<div className="container mt-[90px]  flex flex-col items-center justify-center">
-    <div className="row d-flex align-items-center">
+<div className="container mt-[90px]   items-center justify-center">
+    <div className="row d-flex align-items-center flex flex-col-reverse md:flex-row ">
         
         <div className="col-md-6 flex flex-col items-center justify-center">
             <h1 className="font-bold text-5xl text-blue-500">BCT</h1>
@@ -67,9 +67,14 @@ export default function Academics() {
     </div>
 </div>
 
-<div className="container mt-[90px] mb-[90px]">
+
+
+
+<div className="container mt-[90px]  flex flex-col items-center justify-center">
     <div className="row d-flex align-items-center">
-        <div className="col-md-6 d-flex justify-content-center">
+        
+
+    <div className="col-md-6 d-flex justify-content-center">
             <img
                 className="card-img-top rounded-2xl"
                 src={electronics}
@@ -80,17 +85,19 @@ export default function Academics() {
                 }}
             />
         </div>
+
         <div className="col-md-6 flex flex-col items-center justify-center">
             <h1 className="font-bold text-5xl text-blue-500">BCE</h1>
             <p className="text-xl mt-3">
-            A Bachelor of Electronics and Information Engineering (BEI) program focuses on the study of electronics, communication systems, and information technology. This degree combines theoretical knowledge with practical skills in areas such as circuit design, signal processing, telecommunications, embedded systems, and software development. Students are trained to design, develop, and manage electronic and information systems, preparing them for careers in various tech and engineering industries. The curriculum often includes hands-on projects, internships, and industry collaborations, ensuring that graduates are well-equipped to meet the demands of the rapidly evolving technology sector.
-            </p>
+            A Bachelor of Electronics and Information Engineering (BEI) program focuses on the study of electronics, communication systems, and information technology. This degree combines theoretical knowledge with practical skills in areas such as circuit design, signal processing, telecommunications, embedded systems, and software development. Students are trained to design, develop, and manage electronic and information systems, preparing them for careers in various tech and engineering industries. The curriculum often includes hands-on projects, internships, and industry collaborations, ensuring that graduates are well-equipped to meet the demands of the rapidly evolving technology sector.</p>
             <Link to={'/learn-more'}>
             <button className="hover:bg-green-600 hover:text-white mt-3 h-12 w-40 text-white font-bold rounded-2xl bg-sky-700 text-xl">
               Learn More
             </button>
             </Link>
         </div>
+
+      
     </div>
 </div>
 
